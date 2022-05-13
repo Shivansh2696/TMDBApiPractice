@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="190dp"
+    android:id="@+id/cardView"
+    android:backgroundTint="@color/black"
+    android:layout_marginTop="5dp"
+    app:cardCornerRadius="20dp"
+    >
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginStart="10dp"
+        app:cardCornerRadius="20dp">
+
+        <ImageView
+            android:id="@+id/PersonImage"
+            android:layout_width="150dp"
+            android:layout_height="170dp"
+            tools:srcCompat="@tools:sample/avatars" />
+
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Movie Name :"
+        android:textColor="@color/Yellow"
+        android:layout_marginTop="10dp"
+        android:textStyle="bold"
+        android:layout_marginStart="220dp"
+        />
+
+    <TextView
+        android:id="@+id/MovieName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name Will Be Here"
+        android:textColor="@color/white"
+        android:layout_marginStart="170dp"
+        android:layout_marginTop="32dp"
+        />
+
+   <ImageView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:src="@drawable/ic_star"
+       android:layout_marginStart="165dp"
+       android:layout_marginTop="70dp"
+       />
+
+    <TextView
+        android:id="@+id/MovieRating"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rating Will Be Here"
+        android:textColor="@color/white"
+        android:layout_marginStart="200dp"
+        android:layout_marginTop="72dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Release Date :"
+        android:textColor="@color/Yellow"
+        android:layout_marginTop="110dp"
+        android:textStyle="bold"
+        android:layout_marginStart="220dp"
+        />
+
+    <TextView
+        android:id="@+id/ReleaseDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Release Date Will Be Here"
+        android:textColor="@color/white"
+        android:layout_marginStart="170dp"
+        android:layout_marginTop="135dp" />
+
+</androidx.cardview.widget.CardView>

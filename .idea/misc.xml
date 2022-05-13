@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Shivansh/AndroidStudioProjects/TMDBApi/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Shivansh/AndroidStudioProjects/TMDBApi/app/src/main/res/layout/activity_movies_details.xml" value="0.33" />
+        <entry key="..\:/Users/Shivansh/AndroidStudioProjects/TMDBApi/app/src/main/res/layout/activity_now_playing_movies_full_details.xml" value="0.365625" />
+        <entry key="..\:/Users/Shivansh/AndroidStudioProjects/TMDBApi/app/src/main/res/layout/activity_now_playing_movies_full_list.xml" value="0.365625" />
+        <entry key="..\:/Users/Shivansh/AndroidStudioProjects/TMDBApi/app/src/main/res/layout/activity_popular_movies_details.xml" value="0.365625" />
+        <entry key="..\:/Users/Shivansh/AndroidStudioProjects/TMDBApi/app/src/main/res/layout/activity_popular_movies_full_details.xml" value="0.365625" />
+        <entry key="..\:/Users/Shivansh/AndroidStudioProjects/TMDBApi/app/src/main/res/layout/activity_popular_persons.xml" value="0.365625" />
+        <entry key="..\:/Users/Shivansh/AndroidStudioProjects/TMDBApi/app/src/main/res/layout/now_playing_full_detail_card.xml" value="2.5161290322580645" />
+        <entry key="..\:/Users/Shivansh/AndroidStudioProjects/TMDBApi/app/src/main/res/layout/now_playing_movies_full_detail_card.xml" value="0.5" />
+        <entry key="..\:/Users/Shivansh/AndroidStudioProjects/TMDBApi/app/src/main/res/layout/recycler_card_now_playing_movies.xml" value="0.5" />
+        <entry key="..\:/Users/Shivansh/AndroidStudioProjects/TMDBApi/app/src/main/res/layout/recycler_card_popular_movies.xml" value="0.365625" />
+        <entry key="..\:/Users/Shivansh/AndroidStudioProjects/TMDBApi/app/src/main/res/layout/recycler_card_popular_persons.xml" value="0.33" />
+        <entry key="..\:/Users/Shivansh/AndroidStudioProjects/TMDBApi/app/src/main/res/layout/recycler_card_small_card_movies.xml" value="0.365625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

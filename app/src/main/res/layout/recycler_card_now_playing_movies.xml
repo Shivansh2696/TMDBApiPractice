@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/NowPlayingMoviesCard"
+    android:layout_width="150dp"
+    android:layout_height="260dp"
+    android:backgroundTint="@color/black">
+
+    <ImageView
+        android:id="@+id/ImageNowPlayingMovies"
+        android:layout_width="match_parent"
+        android:layout_height="178dp"
+        android:src="@drawable/ic_launcher_background" />
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:src="@drawable/ic_star"
+        android:layout_marginTop="185dp"
+        android:layout_marginStart="5dp" />
+
+    <TextView
+        android:id="@+id/RatingNowPlayingMovies"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rating"
+        android:layout_marginTop="186dp"
+        android:textColor="@color/white"
+        android:layout_marginStart="30dp"
+        android:textSize="12sp"
+        />
+    <TextView
+        android:id="@+id/NameNowPlayingMovies"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="Movie Name"
+        android:textSize="12sp"
+        android:layout_marginTop="210dp"
+        android:layout_marginStart="5dp" />
+
+    <TextView
+        android:id="@+id/ReleaseDateNowPlayingMovies"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="Release Date"
+        android:textSize="12sp"
+        android:layout_marginTop="230dp"
+        android:layout_marginStart="5dp" />
+
+</androidx.cardview.widget.CardView>

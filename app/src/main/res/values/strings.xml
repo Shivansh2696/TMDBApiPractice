@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TMDBApi</string>
+    <string name="tmdb_practice">TMDB Practice</string>
+    <string name="popular_persons">Popular Persons</string>
+    <string name="see_all">See All</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="popularmovies">PopularMovies</string>
+</resources>
